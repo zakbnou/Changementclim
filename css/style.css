@@ -347,7 +347,7 @@ figure {
   width: 48%;
   margin: 1%;
   border-radius: 10px;
-  flex-shrink: 0;
+  flex-shrink: 1;
   overflow: hidden;
   background: #f4fbff;
 }
