@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0, 
+    user-scalable=no'>
+    <title>changements climatiques au Maroc et au Nord de l’Afrique </title>
+    <link rel="icon" type="image/png" href="./images/favicon.png">
+    <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Source+Sans+Pro:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- calls -->
+
+    <link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+    <link rel="stylesheet" href="../css/style.css">
+    <script type="text/javascript" src="../js/d3.v4.js"></script>
+</head>
+
+
+
+<body>
+    <i class="icon-menu burger-button" id="burger-menu"></i>
+    <header class="header">
+        <div class="wrapper">
+            <figure class="logo"><img src="../images/favicon.png" width="80" height="80" alt="logo esgit"></figure>
+            <nav class="menu">
+                <ol>
+                    <li><a class="link" href="#aboutme">à propos </a></li>
+                    <li><a class="link" href="../index.html">Home</a></li>
+                    <li><a class="link contact-button" href="mailto: z.bnoulkacem@gmail.com">Contactez moi</a></li>
+                </ol>
+            </nav>
+        </div>
+    </header>
+    </section>
+    <section>
+        <div class="wrapper">
+            <h2 id="map title" class="map-header">tesst 3d</h2>
+        </div>
+    </section>
+    <!-- viz -->
+
+
+    <div class="data1">
+        <div id="my_dataviz" style="position: relative;">
+            <script src="../js/datavis1.js"></script>
+        </div>
+    </div>
+    <section id="footer" class="footermap">
+        <footer>
+            <div class="wrapper">
+
+                <p>Made with ❤️ by <a href="mailto: z.bnoulkacem@gmail.com">Bnoulkacem Zakaria </a>.</p>
+            </div>
+        </footer>
+    </section>
+
+
+    <script>
+        // ce srcript est pour une visualisation sur mobile
+        const mobile = window.matchMedia('screen and (max-width: 767px)');
+        const menu = document.querySelector('.menu');
+        const burgerButton = document.querySelector('#burger-menu');
+
+        mobile.addListener(validation);
+
+        function validation(event) {
+            if (event.matches) {
+                burgerButton.addEventListener('click', hideShow);
+            } else {
+                burgerButton.removeEventListener('click', hideShow);
+            }
+        }
+        validation(mobile);
+
+        function hideShow() {
+            if (menu.classList.contains('is-active')) {
+                menu.classList.remove('is-active');
+            } else {
+                menu.classList.add('is-active');
+            }
+        }
+    </script>
+
+</body>
+
+</html>

@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <title>changements climatiques au Maroc et au Nord de l’Afrique </title>
+  <link rel="icon" type="image/png" href="./images/favicon.png">
+  <link href="https://fonts.googleapis.com/css?family=Fjalla+One|Source+Sans+Pro:400,700" rel="stylesheet">
+  <link rel="stylesheet" href="../css/style.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+ <!-- calls -->
+  <link rel="stylesheet" href="../js/leaflet.css" />
+  <script src="../js/leaflet.js"></script>
+  <link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+  <link rel="stylesheet" href="../css/style.css">
+  <script src="../js/leaflet.timeline.js"></script>
+  <script src="../js/dynamforestloss.js"></script>
+  
+</head>
+
+
+
+<body>
+  <i class="icon-menu burger-button" id="burger-menu"></i>
+  <header class="header">
+    <div class="wrapper">
+      <figure class="logo"><img src="../images/favicon.png" width="80" height="80" alt="logo esgit"></figure>
+      <nav class="menu">
+        <ol>
+          <li><a class="link" href="#aboutme">à propos </a></li>
+          <li><a class="link" href="#portfolio">Portfolio</a></li>
+          <li><a class="link" href="#events">Eventos</a></li>
+          <li><a class="link contact-button" href="#contact">Contacto</a></li>
+        </ol>
+      </nav>
+    </div>
+  </header>
+  </section>
+  <div class="wrapper">
+    <h2 id="map title" class="map-header">Superficies de forets perdues</h2> 
+  </div>
+  
+  <!-- map -->
+  
+  
+  <map class="maps-container center">
+  <div id="map"></div>
+    <script src="../js/map3.js"></script>
+    
+  </map>
+  
+  
+  <section id="footer" class="footermap">
+    <footer>
+      <div class="wrapper">
+
+        <p >Made with ❤️ by <a href="mailto: z.bnoulkacem@gmail.com">Bnoulkacem Zakaria </a>.</p>
+      </div>
+    </footer>
+  </section>
+  <script>
+    // ce srcript est pour une visualisation sur mobile
+    const mobile = window.matchMedia('screen and (max-width: 767px)');
+    const menu = document.querySelector('.menu');
+    const burgerButton = document.querySelector('#burger-menu');
+
+    mobile.addListener(validation);
+
+    function validation(event) {
+      if (event.matches) {
+        burgerButton.addEventListener('click', hideShow);
+      } else {
+        burgerButton.removeEventListener('click', hideShow);
+      }
+    }
+    validation(mobile);
+
+    function hideShow() {
+      if (menu.classList.contains('is-active')) {
+        menu.classList.remove('is-active');
+      } else {
+        menu.classList.add('is-active');
+      }
+    }
+  </script>
+
+</body>
+
+</html>

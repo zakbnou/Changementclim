@@ -1,0 +1,53 @@
+<svg width="70" height="120" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <title>incendie Superficie</title>
+ <desc>legende carte incendie</desc>
+ <g stroke="null" class="layer">
+  <title>background</title>
+  <rect stroke="null" x="-1" y="-1" width="72" height="122" id="canvas_background" fill="none"/>
+ </g>
+ <g stroke="null" class="layer">
+  <title>Layer 1</title>
+  <g stroke="#000000" stroke-linejoin="bevel" font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_2"/>
+  <g stroke="#000000" stroke-linejoin="bevel" font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_3"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_4"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.1918270489673755,0,0,0.1984985053001515,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_5"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.1918270489673755,0,0,0.1984985053001515,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_8"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_9"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_10"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_11"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1961.1638816828345,1077.5103444443764) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_12"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_13"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_14"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_17"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.1918270489673755,0,0,0.1984985053001515,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_18"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_19"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.2048685395926603,0,0,0.20144039017106388,-1478.1608812456348,1115.919785347845) " font-size="42" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_20">
+   <text stroke="null" stroke-width="0" stroke-dasharray="2,2" y="-5356.10898" font-size="42" xml:space="preserve" fill="#000000" x="7229.71315" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_21">Superficie (ha)</text>
+  </g>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_22"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_25"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.2265677130517166,0,0,0.23444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="42" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_26">
+   <text stroke="null" stroke-width="0" stroke-dasharray="2,2" y="-5278.19827" font-size="42" xml:space="preserve" fill="#000000" x="7454.78158" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_27">1</text>
+  </g>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_28"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_31"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.2265677130517166,0,0,0.23444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="42" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_32">
+   <text stroke="null" stroke-width="0" stroke-dasharray="2,2" y="-5195.65369" font-size="42" xml:space="preserve" fill="#000000" x="7438.02334" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_33">10</text>
+  </g>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_34"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_37"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.2265677130517166,0,0,0.23444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="42" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_38">
+   <text stroke="null" stroke-width="0" stroke-dasharray="2,2" y="-5104.45869" font-size="42" xml:space="preserve" fill="#000000" x="7414.28251" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_39">2282</text>
+  </g>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_40"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(0.1918270489673755,0,0,0.1984985053001515,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_41"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_42"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_43"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_44"/>
+  <g stroke="#000000" stroke-linejoin="bevel" transform="matrix(2.265677130517166,0,0,2.3444739744543583,-1643.0028017877073,1294.0606302412561) " font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_45"/>
+  <g stroke="#000000" stroke-linejoin="bevel" font-size="32.5" stroke-linecap="square" fill="none" font-weight="400" font-style="normal" font-family="MS Shell Dlg 2" id="svg_46"/>
+  <circle id="svg_7" r="10.73325" cy="93.82266" cx="23.68359" stroke-width="5" stroke="null" fill="#ff0000"/>
+  <circle id="svg_35" r="5.3979" cy="71.80548" cx="23.86251" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="null" fill="#e8900d"/>
+  <circle id="svg_47" r="3.69315" cy="53.77032" cx="25.44454" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="null" fill="#e5f25c"/>
+ </g>
+</svg>
