@@ -40,7 +40,7 @@ d3.csv("../csv/Book1.csv", function (data) {
       "translate(" + (width / 2) + " ," +
       (height + margin.top + 40) + ")")
     .style("text-anchor", "middle")
-    .text("Paye");
+    .text("pays");
   // Add Y axis
   var y = d3.scaleSqrt()
     .domain([0, 240000])

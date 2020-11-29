@@ -87,7 +87,7 @@ legend.addTo(map);
 
 info.update = function (props) {
     this._div.innerHTML = '<h4>Pourcentage des terres de moyenne à haute vulnérabilité à la sécheresse : </h4>' + (props ?
-        'Paye: <b>' + props.paye + '</b> <br />Pourcentage : ' + props.m_h_vul_p +'%' : '');
+        'pays: <b>' + props.pays + '</b> <br />Pourcentage : ' + props.m_h_vul_p +'%' : '');
 };
 
 info.addTo(map);

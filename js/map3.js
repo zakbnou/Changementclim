@@ -43,7 +43,7 @@ legend.addTo(map);
 
 info.update = function (props) {
     this._div.innerHTML = '<h4>Superficie perdue: </h4>' + (props ?
-        'Paye: <b>' + props.paye + '</b> <br />Superficie : ' + props.foret_perdue +'ha' : '');
+        'pays: <b>' + props.pays + '</b> <br />Superficie : ' + props.foret_perdue +'ha' : '');
 };
 
 info.addTo(map);
