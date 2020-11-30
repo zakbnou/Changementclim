@@ -350,7 +350,7 @@ html {
 .map {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   width: 48%;
-  height: 80vh;
+  
   margin: 1%;
   border-radius: 10px;
   flex-shrink: 1;
