@@ -108,3 +108,4 @@ timelineControl = L.timelineSliderControl({
 timeline.addTo(map);
 timelineControl.addTo(map);
 timelineControl.addTimelines(timeline);
+L.control.scale().addTo(map);

@@ -96,3 +96,5 @@ var geojson = L.geoJson(DroughtVulnPercentage, {
     style: layerstyle,
     onEachFeature: onEachFeature,
 }).addTo(map);
+
+L.control.scale().addTo(map);
