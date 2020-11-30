@@ -53,14 +53,14 @@ d3.csv("../csv/Book2.csv", function (data) {
     .range([height, 0]);
   svg.append("g")
     .call(d3.axisLeft(y));
-
+  // add Y axis label
   svg.append("text")
     .attr("transform", "rotate(-90)")
     .attr("y", 0 - margin.left - 5)
     .attr("x", 0 - (height / 2))
     .attr("dy", "1em")
     .style("text-anchor", "middle")
-    .text("Temperature");
+    .text("Temperature en °C");
 
   // color palette
   var res = sumstat.map(function (d) {
