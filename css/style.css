@@ -47,6 +47,7 @@
 .maps-container #map {
   height: 100%;
   min-height: 500px;
+  margin-bottom: 54px;
 }
 
 .data1 {
@@ -297,6 +298,10 @@ figure {
   margin: 0px;
 
 }
+html {
+  position: relative;
+  min-height: 100%;
+}
 
 .footer {
   position: static;
@@ -345,11 +350,13 @@ figure {
 .map {
   box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
   width: 48%;
+  height: 80vh;
   margin: 1%;
   border-radius: 10px;
   flex-shrink: 1;
   overflow: hidden;
   background: #f4fbff;
+  margin-bottom: 54px;
 }
 
 .map-content {
