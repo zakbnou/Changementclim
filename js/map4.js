@@ -74,7 +74,7 @@ var buildingLayer = new maptalks.ExtrudePolygonLayer('data', data.features, {
     .addTo(map);
 
 var metric = new maptalks.control.Scale({
-    'position': 'top-right',
+    'position': 'bottom-left',
     'maxWidth': 150,
     'metric': true,
     'imperial': false
