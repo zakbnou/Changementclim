@@ -173,15 +173,7 @@ h1 strong {
   color: #026fff;
 }
 
-.aboutme {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  height: 330px;
-  background-color: #1d252c;
-  flex-wrap: wrap;
 
-}
 
 
 h2 {
@@ -238,7 +230,7 @@ h2 {
 }
 
 .header {
-  background-color: #1d252c;
+  background-color: #000000;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -471,42 +463,9 @@ html {
 @media screen and (max-width: 1023px) {
   .wrapper {
     padding: 0 1em;
-  }
-
-  .aboutme {
-    height: 330px;
-    position: relative;
-    overflow: hidden;
-    justify-content: space-between;
-
-  }
-
-  .aboutme-image {
-
-    z-index: 1;
-    height: inherit;
-
-  }
-
-  .portfolio {
-    padding: 0;
-  }
-}
+  }}
 
 @media screen and (max-width: 895px) {
-  .aboutme {
-    height: 330px;
-    position: relative;
-    overflow: hidden;
-    justify-content: center;
-    text-align: center;
-  }
-
-  .aboutme-image {
-    position: absolute;
-    z-index: 1;
-  }
-
   h1 {
     font-size: 2em;
     z-index: 2;
